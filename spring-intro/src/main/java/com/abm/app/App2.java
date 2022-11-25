@@ -13,6 +13,7 @@ public class App2 {
 		
 		WelcomeWorld ww = (WelcomeWorld) ctx.getBean("welcome");
 		System.out.println("Main nahi toh kon be..");
+		System.out.println("Welcome to the world of spring");
 	}
 
 }
