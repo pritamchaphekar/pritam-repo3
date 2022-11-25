@@ -4,7 +4,7 @@ public class HelloWorld {
 	
 	
 	public HelloWorld() {
-		System.out.println("HelloWorld constructor of java..");
+		System.out.println("HelloWorld constructor of java is the boss.");
 	}
 
 	public String sayHello(String name) {
