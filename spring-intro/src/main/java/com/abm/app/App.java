@@ -17,7 +17,7 @@ public class App {
 		
 		for(int i=0; i<10; i++ ) {
 		HelloWorld hw = (HelloWorld) ctx.getBean("hello");
-		System.out.println("Pritam_Bhai");
+		System.out.println("Pritam_bhai the smart");
 		}
 		
 		
